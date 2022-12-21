@@ -1,3 +1,9 @@
+# Vscode folder 
+/.vscode
+
+# Target class 
+/target
+
 # Compiled class file
 *.class
 
